@@ -28,7 +28,7 @@ pipeline {
         }
         stage('Publish Artifacts') {
             steps {
-                echo 'Balin Menezes' 
+                echo 'Hey Balin Menezes' 
             }
         }
     }
